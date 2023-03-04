@@ -9,9 +9,12 @@
   },
   "devDependencies": {
     "@types/node": "^18.14.2",
-    "nuxt": "^3.2.3"
+    "nuxt": "^3.2.3",
+    "sass": "^1.58.3",
+    "sass-loader": "10"
   },
   "dependencies": {
-    "@nuxtjs/strapi": "^1.8.1"
+    "@nuxtjs/strapi": "^1.8.1",
+    "bootstrap-vue": "^2.23.1"
   }
 }
